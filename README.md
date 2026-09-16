@@ -1,6 +1,7 @@
 # CART-470
 ### Weekly Project Process Journal
 <b>Client:</b> VK Preston
+
 <b>Project:</b> Falls / Chutes
 
 <b>Teammates:</b>
