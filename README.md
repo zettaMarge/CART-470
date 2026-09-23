@@ -28,4 +28,4 @@ Took initiative in setting up the Fizzy Kanban for the team.
 
 ---
 
-<b>[Back to main](https://github.com/zettaMarge/CART-470) --- </b> Next Entry
+<b>[Back to main](https://github.com/zettaMarge/CART-470) --- [Next Entry](https://github.com/zettaMarge/CART-470/tree/W3-entry)</b> 
