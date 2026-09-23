@@ -13,4 +13,5 @@
 
 ### Table of Contents
 - [Week 2 Entry](https://github.com/zettaMarge/CART-470/tree/W2-entry)
+- [Week 3 Entry](https://github.com/zettaMarge/CART-470/tree/W3-entry)
 
