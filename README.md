@@ -1,16 +1,19 @@
 # CART-470
-### Weekly Project Process Journal
-<b>Client:</b> VK Preston
+### Week 3) 23/09/26 - 29/09/26
 
-<b>Project:</b> Falls / Chutes - <b>[(Project Brief)](./Falls-Chutes_Brief.pdf)</b>
+### Studio Work
+\-
 
-<b>Teammates:</b>
 
-    Michael Vlamis
-    Mars Lapierre-Furtado
-    Tatiana Désormeaux
-    Scarlett Perez
+### Home Work
+\-
 
-### Table of Contents
-- [Week 2 Entry](https://github.com/zettaMarge/CART-470/tree/W2-entry)
+---
 
+### Coming Up Next
+
+- Living Learning Contract team submission) Sept. 30th
+
+---
+
+<b>[Back to main](https://github.com/zettaMarge/CART-470) --- </b> Next Entry 
