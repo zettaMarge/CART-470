@@ -2,23 +2,33 @@
 ### Week 3) 23/09/26 - 29/09/26
 
 ### Studio Work
-Volunteered to be the main note taker for our team's initial meeting with VK Preston:
-- quick discussion of our skills/abilities
-- Q: big initial ideas/vision
-    - A: ours is to have the images/videos to be a continuous mash, scroll through the seasons, with clickable elements to collect to get more info/story from the pictures/videos.
-    - what they've done rn is winter, first draft of fall. no begining or end, interesting if starting at different seasons shows different aspects, pushes back against solo authorship. something updateable (templates for later seasons) but still w a solid core. audio with text transcript, interested in the accoustics mostly. interdisciplinary, intergenerational, interconnected. choose your own (nightmare) adventure
-    - dont have to force a version to be perfect to make the next one, send parts into the world instead of holding them back, unfinished aspect is fitting
-- Q: whats expectated for our 12 weeks
-    - A: potentially keep working w them afterwards, be involved w research; but for this session have the project be live, have it include a team/basic project/narrative info section. start w the miro sequence theyve made (will have a shared version for us)
-- Q: is web publication standalone or part of
-    - A: standalone, but also could be kind of a modular component of the whole seasons thing. could be adapted for the lecture performance instead of just auto-play (theremin)
-- Q: any current website/graphics/layouts inspirations
-    - A: scrolling aspect, if possible adapt the miro sequence to web,
-- Q: check ins
-    -A: email can work, but bc theyre teaching texting is best 647-323-5221, day off is wednesday we can use for meetigns, oswaldo for assets access
-- Q: anything ready for next week
-    - A: adapt the miro to web (figma)
+Volunteered to be the main note taker for our team's initial meeting with VK Preston.
 
+Meeting Recap:
+- started with brief introduction of our skills & initial brainstorming ideas for the project:
+    - continuous integration/mesh of images & videos
+    - being able to scroll through the seasons
+    - point-n-click "game" elements to reveal more of the story/info/context of the images
+- Q1: what VK is envisioning / important concepts
+    - TODO
+- Q2: what is expected of us after the next 12 weeks
+    - have a functional but not necessarily published website
+    - have it be updateable / adaptable for the upcoming Seasons
+    - in addition to the Chutes / Seasons adaptation, include a page describing the team & narrative behind it (project brief)
+    - possibility of further working with them afterwards, as well as research involvement(?)
+- Q3: whether the website is a modular component of the whole Chutes/Seasons project or act more standalone
+    - website would be more of a at-home experience of the Chutes/Seasons project
+    - possibility of further adapting the website for lecture performance(s), with full-body motion for navigating (VK had an idea of using a theremin)
+    - so kind of both in a way
+- Q4: what inspiration VK has in terms of layout / UI
+    - VK made a sequence in Miro that would be a good starting point for the website
+    - definitely focus on the scrolling aspect, references to the Snakes & Ladders imagery
+- Q5: the best time & means of checking-in / communications
+    - wednesdays would be best for full check-ins / progress updates
+    - texting is better than email
+- Q6: what we should aim for for next week
+    - adapt the Miro sequence into a more web-based format (possibly Figma)
+    - a copy of the sequence will be made available to us ASAP for us to potentially edit/play with
 
 ### Home Work
 \-
@@ -28,7 +38,8 @@ Volunteered to be the main note taker for our team's initial meeting with VK Pre
 ### Coming Up Next
 
 - Living Learning Contract team submission) Sept. 30th
-- Vis studio booking meetup) Sept. 30th 10:30, Lib room 314 (class meet at 10, go there after)
+- Visualization studio meetup) Sept. 30th 10:30, Library room 314 (meet in class at 10 first)
+- Miro -> Figma prototype
 
 ---
 
