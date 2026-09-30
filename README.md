@@ -41,4 +41,4 @@ Had a team meeting to go over what to put in the living learning contract, mainl
 
 ---
 
-<b>[Prev. Entry](https://github.com/zettaMarge/CART-470/tree/W2-entry) --- [Back to main](https://github.com/zettaMarge/CART-470) --- </b> Next Entry 
+<b>[Prev. Entry](https://github.com/zettaMarge/CART-470/tree/W2-entry) --- [Back to main](https://github.com/zettaMarge/CART-470) --- [Next Entry](https://github.com/zettaMarge/CART-470/tree/W4-entry)</b>
