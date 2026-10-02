@@ -20,16 +20,23 @@ Library Meetup Recap:
 - having a private website access with username & password for ??? viewing WIP sections? in addition to the public access
 - bjork website as potential inspiration
 
+Otherwise we plan to hold a meeting thursday evening to discuss our next steps/prototype ideas.
+
 
 ### Home Work
-\-
+Thursday Meeting Recap:
+- discord server created for more organized communications between each other, including a channel containing links to all the resources sent by VK so far
+- idea of the map not visible at first, only at the end to show the user's path through the experience
+- rough/low-fidelity prototypes
+- will have a 2nd call on monday 7:30-8pm to narrow down which prototypes will be shown to VK
+
 
 ---
 
 ### Coming Up Next
 
 - Milestone 1: Figma prototype) Oct. 21
-- Potential meeting with VK to present the prototypes) next week
+- Present prototypes to VK) Oct. 7 @10:00
 
 ---
 
