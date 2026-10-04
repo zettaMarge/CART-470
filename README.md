@@ -30,6 +30,10 @@ Thursday Meeting Recap:
 - rough/low-fidelity prototypes
 - will have a 2nd call on monday 7:30-8pm to narrow down which prototypes will be shown to VK
 
+<b>[Prototype editor link](https://www.figma.com/design/v9fZIHNBLT2a53KlFj6Uwo/CART470-Prototype?node-id=0-1&p=f&t=uDio7ZmzZCUqPR9b-0)</b>
+
+Very rough prototyping start with basic wireframing, which kind of makes it difficult to effectively convey the ideas/concepts, but could add Figma interactions for easier conceptualization (disappearing nav, shifting colour of "bg image" to simulate it changing, etc)
+![10-03_wip](./img/10-03_prototypeWIP.png)
 
 ---
 
