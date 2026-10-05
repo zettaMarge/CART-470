@@ -38,6 +38,8 @@ Very rough prototyping start with basic wireframing, which kind of makes it diff
 
 ![10-04_wip](./img/10-04_prototypeWIP.png)
 
+Decided it would be best to wait for the monday group meeting before adding the Figma interactions, in case my prototype isn't selected / needs to be edited first.
+
 ---
 
 ### Coming Up Next
