@@ -40,6 +40,19 @@ Very rough prototyping start with basic wireframing, which kind of makes it diff
 
 Decided it would be best to wait for the monday group meeting before adding the Figma interactions, in case my prototype isn't selected / needs to be edited first.
 
+Monday Meeting Recap:
+- Scarlett could not attend due to internet issues
+- all prototypes have very interesting & different interpretations / concepts, all in agreement to keep them all for the presentation since VK might like different elements of them
+- only preparation left for this week is to refine what still needs refining in our prototypes / add transitions
+- Tatiana sent the Fizzy link
+- reminded the others to post their figma links as comments in Fizzy to tie in task progress
+
+![10-05_wip](./img/10-05_prototypeWIP.png)
+
+Wasn't able to get the navbar dis/reappearing transition to affect the size of the background like i wanted (i.e. to mimic it taking up the newly available space), but the colour transition works. The rotating/disappearing images works great also.
+
+<b>[Interactive prototype link](https://www.figma.com/proto/v9fZIHNBLT2a53KlFj6Uwo/CART470-Prototype?node-id=16-2&p=f&t=FsQ6B24HjocWUt5Y-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)</b>
+
 ---
 
 ### Coming Up Next
