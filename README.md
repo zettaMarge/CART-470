@@ -62,5 +62,5 @@ Wasn't able to get the navbar dis/reappearing transition to affect the size of t
 
 ---
 
-<b>[Prev. Entry](https://github.com/zettaMarge/CART-470/tree/W3-entry) --- [Back to main](https://github.com/zettaMarge/CART-470) --- </b> Next Entry 
+<b>[Prev. Entry](https://github.com/zettaMarge/CART-470/tree/W3-entry) --- [Back to main](https://github.com/zettaMarge/CART-470) --- [Next Entry](https://github.com/zettaMarge/CART-470/tree/W5-entry)</b>
 
