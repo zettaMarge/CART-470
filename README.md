@@ -16,7 +16,12 @@ Class Meeting Recap:
 - consider meeting with VK during reading week depending how today's goes
 
 VK Meetup Recap:
-- 
+- as expected, VK likes many elements from the different prototypes, trusts us to come up with a hybrid mashup of those ideas
+    - horizontal AND vertical scrolling from mars'
+    - collaborators credit space + navigation from tatiana's
+    - navigation + sound control from mine
+- no answer yet hosting-wise
+- VK will be on campus during reading week from Oct 13 to 16-17 (possibly)
 
 
 ### Home Work
@@ -25,7 +30,7 @@ VK Meetup Recap:
 ---
 
 ### Coming Up Next
-
+- Hybrid prototype wip) Oct. 14 @11:30
 - Milestone 1: mid/high-fidelity Figma prototype) Oct. 21
 
 ---
