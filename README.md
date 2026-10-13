@@ -17,20 +17,22 @@ Class Meeting Recap:
 
 VK Meetup Recap:
 - as expected, VK likes many elements from the different prototypes, trusts us to come up with a hybrid mashup of those ideas
-    - horizontal AND vertical scrolling from mars'
-    - collaborators credit space + navigation from tatiana's
-    - navigation + sound control from mine
+    - horizontal and THEN vertical scrolling from mars' (visual and flow)
+    - collaborators credit space + about page (snakes & ladders) from tatiana's
+    - navigation + sound control from mine and tatiana's also
+    - sparse images first, then more dense at waterfall
 - no answer yet hosting-wise
 - VK will be on campus during reading week from Oct 13 to 16-17 (possibly)
+- next wednesday VK meeting is to meet more members of the project (Val & ??Casey?) and show a prototype hybrid WIP
 
 
 ### Home Work
-\-
+hybridization of our ideas is going smoothly, however the transition of lower-to-higher fidelity is a bit more rough, especially for choosing a colour palette that works well with the assets that will be included. we also brainstormed the idea that the colours could switch with the seasons / scrolling, though would require careful work to choose colours that work well enough with each other while also respecting the previously made point.
 
 ---
 
 ### Coming Up Next
-- Hybrid prototype wip) Oct. 14 @11:30
+- Hybrid prototype wip) Oct. 14 @11:30 via Zoom
 - Milestone 1: mid/high-fidelity Figma prototype) Oct. 21
 
 ---
