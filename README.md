@@ -29,10 +29,19 @@ VK Meetup Recap:
 ### Home Work
 hybridization of our ideas is going smoothly, however the transition of lower-to-higher fidelity is a bit more rough, especially for choosing a colour palette that works well with the assets that will be included. we also brainstormed the idea that the colours could switch with the seasons / scrolling, though would require careful work to choose colours that work well enough with each other while also respecting the previously made point.
 
+![10-13_wip](./img/10-13_prototypeWIP.png)
+
+the difference in feedback between last's week's meeting with VK and the one during reading week was incredibly jarring and disheartening considering we haven't really introduced any new elements between the two. We still managed to get some ideas on how to proceed with our current prototype, namely:
+- lighter colour palette & different flow variations
+- include actual pictures to replace the placeholders
+- include the about/credits page as a frame/modal within the whole flow instead of a separate page
+- keep the poems as image scans instead of text sections (sketchy/pencil notes aesthetic)
+
 ---
 
 ### Coming Up Next
-- Hybrid prototype wip) Oct. 14 @11:30 via Zoom
+- ~~Hybrid prototype wip 1) Oct. 14 @11:30 via Zoom~~
+- Hybrid prototype wip 2) Oct. 21 @11:30 in person
 - Milestone 1: mid/high-fidelity Figma prototype) Oct. 21
 
 ---
