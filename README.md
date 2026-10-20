@@ -37,6 +37,10 @@ the difference in feedback between last's week's meeting with VK and the one dur
 - include the about/credits page as a frame/modal within the whole flow instead of a separate page
 - keep the poems as image scans instead of text sections (sketchy/pencil notes aesthetic)
 
+![10-18_wip](./img/10-18_prototypeWIP_A.png)
+![10-18_wip](./img/10-18_prototypeWIP_B.png)
+![10-18_wip](./img/10-18_prototypeWIP_C.png)
+
 ---
 
 ### Coming Up Next
