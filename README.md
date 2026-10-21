@@ -18,3 +18,4 @@
 - [Week 3 Entry](https://github.com/zettaMarge/CART-470/tree/W3-entry)
 - [Week 4 Entry](https://github.com/zettaMarge/CART-470/tree/W4-entry)
 - [Week 5 Entry](https://github.com/zettaMarge/CART-470/tree/W5-entry)
+- [Week 6 entry](https://github.com/zettaMarge/CART-470/tree/W6-entry)
