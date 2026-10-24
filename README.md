@@ -12,18 +12,16 @@ Class Meeting Recap:
 
 VK Meetup Recap:
 - they like the "glistening" (fuzzy, microfiche texture), the framing (but would prefer toned down, & in a more hospital, less friendly, more clinical way?), have it less busy picture-wise (more white space) / overlap feels busy, keep the idea of digital scroll
-- val loves it <3 good vibes yayy
 - we shouldnt focus too much on their feedback on the content of the prototype, since the form is what'S important right now, BUT they would like the waterfall to be the first-ish content to be seen then continue with clinical hard unfriendly world and then move to blooming wow friendly soft world, thinner lines with fade-in 
 - group name for the collaborators is <i>If&</i> (if-and) (use that instead of "about" in navbar)
 - use the loading screen to be the clickable, doorway to "surprising" element/the experience?
 - asked them to have groups of pictures/content with audio to be played alongside
-- we managed somewhat to confirm a starting point, ish
+- we managed somewhat to confirm a starting point-ish with option 1
 - automatic scroll takeover without user activity
 
 
-
 ### Home Work
-\-
+React is likely our best tool option for coding the website, as it free, open-source, makes building html pages and user interface very flexible, and a variety of frameworks exist based around it to also manage backend components that are usually as well-documented as React itself.
 
 ---
 
