@@ -34,5 +34,5 @@ We still need to come up with proper coding tasks (preferably without too much o
 
 ---
 
-<b>[Prev. Entry](https://github.com/zettaMarge/CART-470/tree/W5-entry) --- [Back to main](https://github.com/zettaMarge/CART-470) ---</b> Next Entry
+<b>[Prev. Entry](https://github.com/zettaMarge/CART-470/tree/W5-entry) --- [Back to main](https://github.com/zettaMarge/CART-470) --- [Next Entry](https://github.com/zettaMarge/CART-470/tree/W7-entry)</b>
 
