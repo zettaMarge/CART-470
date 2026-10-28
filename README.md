@@ -1,5 +1,5 @@
 # CART-470
-### Week 5) 07/10/26 - 06/20/26
+### Week 5) 07/10/26 - 20/10/26
 
 ### Studio Work
 Class Meeting Recap:
