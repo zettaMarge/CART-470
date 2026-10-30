@@ -8,7 +8,11 @@ Discussed which time option for our next VK meeting worked best; Neither time th
 
 
 ### Home Work
-\-
+Started the Scrolling Prototype task, currently researching these options to manage the autoscroll:
+- [react-scroll -> scroll.scrollMore(px)](https://www.npmjs.com/package/react-scroll#examples) ; would need to find a way to trigger without user input + interrupting it when manual scrolling is detected
+- [scrollTo(pxPosition)](https://jcxmpbxll.medium.com/creating-a-carousel-with-horizontal-scrolling-using-react-19efbf67b47d) ; likely the best option in order to control the speed, would also need to find a way to trigger without user input + interrupting it when manual scrolling is detected (ClassName extends React.Component onSlide function?)
+- react carousel element ; easy to set to autoscroll, but can't control the slide speed (only slide transition delay), & doesn't seem to be user scroll-controllable
+
 
 ---
 
