@@ -13,6 +13,12 @@ Started the Scrolling Prototype task, currently researching these options to man
 - [scrollTo(pxPosition)](https://jcxmpbxll.medium.com/creating-a-carousel-with-horizontal-scrolling-using-react-19efbf67b47d) ; likely the best option in order to control the speed, would also need to find a way to trigger without user input + interrupting it when manual scrolling is detected (ClassName extends React.Component onSlide function?)
 - react carousel element ; easy to set to autoscroll, but can't control the slide speed (only slide transition delay), & doesn't seem to be user scroll-controllable
 
+based on the current code freshly updated in the project though, my main idea would now be to:
+- start a timer whenever the `onWheel` event is triggered
+- when it reaches 0, start a coroutine kinda thing to increment the container's scroll bit by bit until it reaches the end
+
+issue comes with how to interrupt that coroutine if its in progress and a new onWheel event triggers, the fact that javascript is single-threaded so coroutines arent really a thing, and that I'm really rusty in coding with React/Next.js
+
 
 ---
 
