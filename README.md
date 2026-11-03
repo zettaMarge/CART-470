@@ -17,7 +17,10 @@ based on the current code freshly updated in the project though, my main idea wo
 - start a timer whenever the `onWheel` event is triggered
 - when it reaches 0, start a coroutine kinda thing to increment the container's scroll bit by bit until it reaches the end
 
-issue comes with how to interrupt that coroutine if its in progress and a new onWheel event triggers, the fact that javascript is single-threaded so coroutines arent really a thing, and that I'm really rusty in coding with React/Next.js
+Issue comes with how to interrupt that coroutine if its in progress and a new onWheel event triggers, the fact that javascript is single-threaded so coroutines arent really a thing, and that I'm really rusty in coding with React/Next.js. Given these difficulties, I've switched to a different task in order to have more progress to showcase.
+
+![11-03_wip](./img/11-03_codeWIP_A.png)
+![11-03_wip](./img/11-03_codeWIP_B.png)
 
 
 ---
