@@ -1,8 +1,8 @@
 # CART-470
-### Week 7) 28/10/26 - 03/11/26
+### Week 8) 04/11/26 - 10/11/26
 
 ### Studio Work
-\-
+No work done during class as it was midterm presentation day for all the groups. Very glad to learn that final presentations will have a more "booth-like" format instead of in front of everybody.
 
 
 ### Home Work
