@@ -31,5 +31,5 @@ Issue comes with how to interrupt that coroutine if its in progress and a new on
 
 ---
 
-<b>[Prev. Entry](https://github.com/zettaMarge/CART-470/tree/W6-entry) --- [Back to main](https://github.com/zettaMarge/CART-470) ---</b> Next Entry
+<b>[Prev. Entry](https://github.com/zettaMarge/CART-470/tree/W6-entry) --- [Back to main](https://github.com/zettaMarge/CART-470) --- [Next Entry](https://github.com/zettaMarge/CART-470/tree/W8-entry)</b>
 
