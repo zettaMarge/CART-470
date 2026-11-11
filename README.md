@@ -27,5 +27,5 @@ We still only got radio silence from VK in terms of the hosting situation, which
 
 ---
 
-<b>[Prev. Entry](https://github.com/zettaMarge/CART-470/tree/W7-entry) --- [Back to main](https://github.com/zettaMarge/CART-470) ---</b> Next Entry
+<b>[Prev. Entry](https://github.com/zettaMarge/CART-470/tree/W7-entry) --- [Back to main](https://github.com/zettaMarge/CART-470) --- [Next Entry](https://github.com/zettaMarge/CART-470/tree/W9-entry)</b>
 
