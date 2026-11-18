@@ -24,5 +24,5 @@ Otherwise the task did not advance much, mostly due to work from other classes a
 
 ---
 
-<b>[Prev. Entry](https://github.com/zettaMarge/CART-470/tree/W8-entry) --- [Back to main](https://github.com/zettaMarge/CART-470) ---</b> Next Entry
+<b>[Prev. Entry](https://github.com/zettaMarge/CART-470/tree/W8-entry) --- [Back to main](https://github.com/zettaMarge/CART-470) --- [Next Entry](https://github.com/zettaMarge/CART-470/tree/W10-entry)</b>
 
