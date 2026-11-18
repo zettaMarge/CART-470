@@ -12,7 +12,9 @@ These can be read from the "effects" in the seasons content JSON.
 
 
 ### Home Work
-Never worked with HTML data-* attributes before, so I had to look into that a bit before properly starting my next coding task.
+Never worked with HTML data-* attributes before, so I had to look into that a bit before properly starting my next coding task. All in all doesn't seem too difficult to work with, just another way to add specific data to html elements and access them by value.
+
+Otherwise the task did not advance much, mostly due to work from other classes. However, I'm fairly confident that, at the very least, both versions of the mouse offset effect shouldn't take too long to code this coming week.
 
 
 ---
