@@ -6,7 +6,7 @@ We had a meeting (+ reminder email) with VK to inform them of what we need from 
 - Final image selection + final order / layout of content. Which means photos of paper scroll + video of paper scroll + individual images: Monday Nov. 23
 - Background sound from Val: Monday Nov. 23
 - Ink spiral(s) scans: Monday Nov. 30
-- Project about + credits written out: not so much a priority but would be nice to include, sometime before the presentation Wednesday Dec. 2
+- Project about + credits written out: not so much a priority but would be nice to include, sometime before the presentation Wednesday ~~Dec. 2~~ Dec. 9
 
 
 ### Home Work
@@ -25,7 +25,7 @@ Currently done with CSS, although there could be an alternative way to do it tha
 ---
 
 ### Coming Up Next
-- Final class presentation: Dec. 2
+- Final class presentation: ~~Dec. 2~~ Dec. 9
 
 ---
 
