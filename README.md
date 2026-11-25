@@ -21,6 +21,8 @@ Hover offset:
 ![11-22_prototypeWIP_C](./img/11-22_prototypeWIP_C.png)
 Currently done with CSS, although there could be an alternative way to do it that adds some more variations to the rotation.
 
+As for the first deadlines, around Sunday evening/Monday afternoon we got a Google drive link from VK with their content selection, as well as a mp3 track from Val. In addition, VK sent us the current draft for the "about" section.
+
 
 ---
 
